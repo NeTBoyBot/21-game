@@ -50,7 +50,6 @@ namespace _21_game
             label2.Text = "";
             label1.Text = "";
             label2.Text = "";
-            textBox1.Text = "";
             playercount = 0;
             botcount = 0;
             cardcount = -1;
